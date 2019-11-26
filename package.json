@@ -1,7 +1,7 @@
 {
-  "name": "template-java-spring",
+  "name": "sonar-java-dvp",
   "version": "1.0.0",
-  "description": "Spring Boot application",
+  "description": "Sonar Test",
   "main": "index.js",
   "scripts": {
     "build": "./gradlew assemble",
